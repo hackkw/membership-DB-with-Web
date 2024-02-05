@@ -3,7 +3,8 @@
 
 # 프로젝트 소개
 Web 과 DB를 연동한 회원 관리 시스템
-![image](https://github.com/hackkw/membership-DB-with-Web/assets/110829185/6c290ce5-34d1-4fb5-87f6-3842da90ec70)
+![image](https://github.com/hackkw/membership-DB-with-Web/assets/110829185/b4df9698-a527-4cd6-a931-2f71918b64ce)
+
 
 # 사용 스택
 - MariaDB
